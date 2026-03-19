@@ -48,12 +48,13 @@ job_app/
   <img src="https://github.com/user-attachments/assets/d93680d7-021f-459a-a83d-15c6960e163a" width="400" alt="Job Details">
   <img src="https://github.com/user-attachments/assets/0c2ea56e-2310-4a88-b000-800b1b9f20e8" width="400" alt="Admin Dashboard">
 </p>
+
 ## Run Locally
 
 ### 1) Clone and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Manav-Pathak/job_app.git
 cd job_app
 
 cd backend
