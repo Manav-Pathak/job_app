@@ -81,3 +81,11 @@ npm run dev
 ```
 
 Frontend runs on `http://localhost:5173` and connects to backend on `http://localhost:8000`.
+
+## UI Screenshots
+
+Add your screenshots below:
+
+
+
+Tip: create a `screenshots/` folder in the project root and place image files there.
