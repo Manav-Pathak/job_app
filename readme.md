@@ -36,6 +36,18 @@ job_app/
 |-- readme.md
 ```
 
+## UI Screenshots
+
+<p align="center">
+  <b>Landing Page</b><br>
+  <img src="https://github.com/user-attachments/assets/4fcfc215-5b30-403a-a97d-203c4c52faae" width="800" alt="Landing Page">
+</p>
+
+<p align="center">
+  <b>Job Details & Admin Dashboard</b><br>
+  <img src="https://github.com/user-attachments/assets/d93680d7-021f-459a-a83d-15c6960e163a" width="400" alt="Job Details">
+  <img src="https://github.com/user-attachments/assets/0c2ea56e-2310-4a88-b000-800b1b9f20e8" width="400" alt="Admin Dashboard">
+</p>
 ## Run Locally
 
 ### 1) Clone and install dependencies
