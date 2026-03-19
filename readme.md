@@ -36,6 +36,14 @@ job_app/
 |-- readme.md
 ```
 
+## UI Screenshots
+
+```md
+![Home Page](<img width="1697" height="866" alt="image" src="https://github.com/user-attachments/assets/4fcfc215-5b30-403a-a97d-203c4c52faae" />)
+![Job Details](./screenshots/job-details.png)
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+```
+
 ## Run Locally
 
 ### 1) Clone and install dependencies
